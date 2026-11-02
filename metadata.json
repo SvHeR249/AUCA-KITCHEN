@@ -1,0 +1,6 @@
+{
+  "name": "Ikaze Kitchen - Restaurant Ordering System",
+  "description": "Centralized restaurant ordering platform with multilingual menus, order customization, loyalty points, real-time kitchen tracking, delivery dispatch, and manager analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
